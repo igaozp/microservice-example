@@ -8,6 +8,7 @@
         <module>eureka-client</module>
         <module>eureka-feign-client</module>
         <module>consul</module>
+        <module>zookeeper-server</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
