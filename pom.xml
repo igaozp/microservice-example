@@ -10,6 +10,8 @@
         <module>consul</module>
         <module>zookeeper-server</module>
         <module>zookeeper-client</module>
+        <module>hystrix-server</module>
+        <module>hystrix-circuit-breaker</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
